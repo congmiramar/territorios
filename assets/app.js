@@ -37,23 +37,23 @@ const datos = {
             tamano: 0,
           },
           {
-            codigo: 'B-2',
+            codigo: 'B-02',
             tamano: 0,
           },
           {
-            codigo: 'B-3',
+            codigo: 'B-03',
             tamano: 0,
           },
           {
-            codigo: 'B-4',
+            codigo: 'B-04',
             tamano: 0,
           },
           {
-            codigo: 'B-5',
+            codigo: 'B-05',
             tamano: 0,
           },
           {
-            codigo: 'B-6',
+            codigo: 'B-06',
             tamano: 0,
           }
         ]
