@@ -35,6 +35,26 @@ const datos = {
           {
             codigo: 'B-01',
             tamano: 0,
+          },
+          {
+            codigo: 'B-2',
+            tamano: 0,
+          },
+          {
+            codigo: 'B-3',
+            tamano: 0,
+          },
+          {
+            codigo: 'B-4',
+            tamano: 0,
+          },
+          {
+            codigo: 'B-5',
+            tamano: 0,
+          },
+          {
+            codigo: 'B-6',
+            tamano: 0,
           }
         ]
       },
@@ -71,7 +91,23 @@ const datos = {
           {
             codigo: 'E-01',
             tamano: 0,
-          }
+          },
+          {
+            codigo: 'E-02',
+            tamano: 0,
+          },
+          {
+            codigo: 'E-03',
+            tamano: 0,
+          },
+          {
+            codigo: 'E-04',
+            tamano: 0,
+          },
+          {
+            codigo: 'E-05',
+            tamano: 0,
+          },
         ]
       },
       {
