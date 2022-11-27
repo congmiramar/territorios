@@ -24,6 +24,18 @@ const datos = {
             codigo: 'A-04',
             tamano: 0,
           },
+          {
+            codigo: 'A-05',
+            tamano: 0,
+          },
+          {
+            codigo: 'A-06',
+            tamano: 0,
+          },
+          {
+            codigo: 'A-07',
+            tamano: 0,
+          },
         ]
       },
       {
@@ -67,7 +79,19 @@ const datos = {
           {
             codigo: 'C-01',
             tamano: 0,
-          }
+          },
+          {
+            codigo: 'C-02',
+            tamano: 0,
+          },
+          {
+            codigo: 'C-03',
+            tamano: 0,
+          },
+          {
+            codigo: 'C-04',
+            tamano: 0,
+          },
         ]
       },
       {
@@ -79,7 +103,35 @@ const datos = {
           {
             codigo: 'D-01',
             tamano: 0,
-          }
+          },
+          {
+            codigo: 'D-02',
+            tamano: 0,
+          },
+          {
+            codigo: 'D-03',
+            tamano: 0,
+          },
+          {
+            codigo: 'D-04',
+            tamano: 0,
+          },
+          {
+            codigo: 'D-05',
+            tamano: 0,
+          },
+          {
+            codigo: 'D-06',
+            tamano: 0,
+          },
+          {
+            codigo: 'D-07',
+            tamano: 0,
+          },
+          {
+            codigo: 'D-08',
+            tamano: 0,
+          },
         ]
       },
       {
